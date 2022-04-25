@@ -1,7 +1,4 @@
-//
-// Created by tema on 4/24/22.
-//
-
+// Copyright 2022 Your Name <your_email>
 #ifndef LAB_05_STACK_STACK_2_H
 #define LAB_05_STACK_STACK_2_H
 

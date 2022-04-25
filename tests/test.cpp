@@ -1,4 +1,4 @@
-// Copyright 2021 Your Name <your_email>
+// Copyright 2022 Your Name <your_email>
 
 #include <stdexcept>
 #include "Stack_1.hpp"
